@@ -1,0 +1,37 @@
+.chatbar_chat{
+    display: flex;
+    flex: 1;
+    /* overflow: scroll; */
+    cursor: pointer;
+    padding: 20px;
+   
+
+}
+
+.chatbar_chat:hover{
+    background-color: rgb(146, 156, 165);
+}
+
+.chatbar_chatName{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    
+}
+
+.chatbar_chatLast{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+.chatbar_chatTimestamp{
+    color: black;
+}
+
+
+.chatAvatar{
+    margin-right: 10px;
+}
+
+
+
